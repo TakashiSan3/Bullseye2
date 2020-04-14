@@ -16,6 +16,7 @@
 		789A21FE24459C48005A9B59 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789A21FD24459C48005A9B59 /* AboutViewController.swift */; };
 		789A22002445A7D7005A9B59 /* Bullseye.html in Resources */ = {isa = PBXBuildFile; fileRef = 789A21FF2445A7D7005A9B59 /* Bullseye.html */; };
 		789A22032445A88A005A9B59 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 789A22022445A889005A9B59 /* WebKit.framework */; };
+		789A22052445AB7A005A9B59 /* HighScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 789A22042445AB7A005A9B59 /* HighScoreViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		789A21FD24459C48005A9B59 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		789A21FF2445A7D7005A9B59 /* Bullseye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Bullseye.html; sourceTree = "<group>"; };
 		789A22022445A889005A9B59 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		789A22042445AB7A005A9B59 /* HighScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighScoreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				789A21EB24449B36005A9B59 /* SceneDelegate.swift */,
 				789A21ED24449B36005A9B59 /* ViewController.swift */,
 				789A21FD24459C48005A9B59 /* AboutViewController.swift */,
+				789A22042445AB7A005A9B59 /* HighScoreViewController.swift */,
 				789A21EF24449B36005A9B59 /* Main.storyboard */,
 				789A21F224449B39005A9B59 /* Assets.xcassets */,
 				789A21F424449B39005A9B59 /* LaunchScreen.storyboard */,
@@ -158,6 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				789A21EE24449B36005A9B59 /* ViewController.swift in Sources */,
+				789A22052445AB7A005A9B59 /* HighScoreViewController.swift in Sources */,
 				789A21EA24449B36005A9B59 /* AppDelegate.swift in Sources */,
 				789A21FE24459C48005A9B59 /* AboutViewController.swift in Sources */,
 				789A21EC24449B36005A9B59 /* SceneDelegate.swift in Sources */,
